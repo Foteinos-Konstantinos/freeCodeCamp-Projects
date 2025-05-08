@@ -24,6 +24,9 @@ I would really like to **thank freeCodeCamp** for providing quality educational 
 ---
 
 > Foteinos Konstantinos
+> 
 > Research Associate
+>
 > Member of <a href="https://g.th.papadopoulos.dit.people.hua.gr/computer-vision-group/">HUA CV Group</a>
+>
 > Undergraduate Student at <a href="https://www.dit.hua.gr/index.php/en/">HUA DIT</a>
